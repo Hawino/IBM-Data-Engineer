@@ -1,5 +1,8 @@
 # Linux Commands and Shell Scripting - Final Project
 
+## Scenario
+In this scenario, you are a lead Linux developer at the top-tech company ABC International Inc. As one of ABC Inc.'s most trusted Linux developers, you have been tasked with creating a script called backup.sh which runs every day and automatically backs up any encrypted password files that have been updated in the past 24 hours.
+
 ## Task 1
 Navigate to # [TASK 1] in the code.\
 Set two variables equal to the values of the first and second command line arguments, as follows:\
