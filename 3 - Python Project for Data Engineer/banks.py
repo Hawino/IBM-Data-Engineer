@@ -7,6 +7,12 @@ Original file is located at
     https://colab.research.google.com/drive/1Y1uMDqJAvHDnUcEFLlEjKCK-VkalFWi1
 """
 
+'''Installing Libraries
+python3.11 -m pip install pandas
+python3.11 -m pip install numpy
+python3.11 -m pip install bs4
+'''
+
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
